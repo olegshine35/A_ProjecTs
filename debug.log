@@ -1,0 +1,4 @@
+[1209/172159:ERROR:process_reader_win.cc(232)] ReadMemory at 0x125000 of 45056 bytes failed: Отказано в доступе. (0x5)
+[1209/172159:ERROR:crash_report_exception_handler.cc(102)] WriteEverything failed
+[1209/172159:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[1216/150500:ERROR:file_io_win.cc(227)] SetEndOfFile: Запрошенную операцию нельзя выполнить для файла с открытой пользователем сопоставленной секцией. (0x4C8)
